@@ -1,0 +1,228 @@
+body {
+    background-color: #333; /* Warna latar belakang halaman (putih soft premium) */
+    font-family: Arial, sans-serif; /* Font yang mudah dibaca */
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cntg {
+  margin-left: 1.5px;
+  margin-bottom: -1px;
+  height: 17px;
+  width: auto;
+  position: absolute;
+}
+
+.profile .prof {
+    width: 120px;
+    border-radius: 50%; /* Bentuk bulat */
+    border: 6px solid #436bbf;
+}
+.profile h3 {
+  margin-top: 2px;
+  margin-bottom: 0;
+  font-family: Times New Roman;
+  color: #eeeeee;
+}
+.profile h4 {
+  margin: 0 0 20px 0;
+  color: #7b7b7b;
+  font-family: Monospace;
+}
+
+.catalog {
+    display: flex;
+    overflow-x: auto; /* Scroll ke samping */
+}
+
+.box {
+    width: auto;
+    height: auto;
+    margin: 3px;
+    background-color: #3a3f47; /* Warna latar belakang box katalog (hijau soft premium) */
+    border-radius: 12px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3); /* Bayangan */
+    position: relative;
+}
+
+.conten {
+  padding: 5px;
+  margin-bottom: 4px;
+}
+
+.conten a{
+  user-select: none;
+  webkit-user-select: none;
+}
+
+.conten img {
+    width: 200px;
+    height: 120px;
+    /* background-size: auto; */
+    border-radius: 10px;
+    margin-bottom: 2px;
+    object-fit: cover; 
+}
+
+.conten h7 {
+   margin: 0;
+   font-size: 16px;
+   color: #4fcca3;
+   font-weight: bold;
+}
+
+.conten p{
+  margin: 2px;
+  font-size: 14px;
+  color: #eeeeee;
+}
+
+.conten .soon {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #4fcca3;
+  background-color: #1a1a1a;
+  padding: 5px 8px;
+  border-radius: 5px;
+  margin-left: 120px;
+  font-family: Times New Roman;
+}
+
+.song {
+  margin: 10px;
+  padding-bottom: 3px;
+  background-color: #3a3f47;
+  border-radius: 12px;
+}
+
+.tajuk {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 0;
+}
+
+.tajuk h3{
+  padding: 5px;
+  margin-bottom: 0;
+  color: #eeeeee;
+}
+
+.tajuk p {
+  padding: 5px;
+  margin-top: 0;
+  font-size: 16px;
+  font-family: Monospace;
+  color: #7b7b7b;
+}
+
+.fav-song {
+  background-color: #4fcca3;
+  padding: 1px;
+  margin-bottom: 10px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+  position: relative;
+  color: #3a3f47;
+}
+
+.fav-song i {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+}
+.fav-song p {
+  font-weight: bold;
+}
+
+.fav-song.playing i:before {
+  content: "\f28b";
+}
+
+.fav-song.paused i:before {
+  content: "\f28c";
+}
+
+
+.description {
+    background-color: #3a3f47; /* Warna latar belakang deskripsi (hijau soft premium) */
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3); /* Bayangan */
+    font-family: Monospace;
+    font-size: 14px;
+    margin: 10px;
+    color: #eeeeee;
+}
+
+.description img {
+  object-fit: cover;
+  background-size: cover;
+  width: 405px;
+}
+
+.media {
+  margin: 30px;
+  background-color: #3a3f47;
+  text-align: center;
+  border-radius: 12px;
+  padding-bottom: 20px;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+.media p {
+  padding-top: 20px;
+  font-weight: bold;
+  color: #eeeeee;
+}
+
+.medsos {
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 3px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.medsos a{
+  display: block;
+  text-decoration: none;
+  color: #333;
+  width: 100%;
+  height: 100%;
+  line-height: 30px;
+  font-family: Times New Roman;
+  transition: all .5s ease;
+  font-size: 18px;
+  font-weight: bold;
+  user-select: none;
+  webkit-user-select: none;
+  outline: none;
+}
+
+.description span {
+  font-weight: bold;
+  color: #4fcca3;
+}
+footer {
+  color: gray;
+  text-align: center;
+  font-family: Georgia;
+  font-weight: bold;
+}
+
+/* button hover animation */
+.medsos:hover {
+    color: #001F3F;
+    background-color: #1a1a1a;
+}
+.medsos a:hover{
+  color: #6c97c2;
+  font-weight: bold;
+  font-family: Times New Roman;
+}
