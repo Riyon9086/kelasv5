@@ -1,8 +1,7 @@
-# kelasv5
+# kelas 24f
 
-# Update Galery tgl 30
+Update Galery **(tgl 30)**
 
 [![Open In Collab](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@thisninef.spr)
-[https://github.com/Riyon9086/kelasv5/issues/1#issue-2314121389](https://private-user-images.githubusercontent.com/153161354/333389097-455a894c-cda3-448e-8bbe-a36a01053cf3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY1MTQwNjMsIm5iZiI6MTcxNjUxMzc2MywicGF0aCI6Ii8xNTMxNjEzNTQvMzMzMzg5MDk3LTQ1NWE4OTRjLWNkYTMtNDQ4ZS04YmJlLWEzNmEwMTA1M2NmMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyNFQwMTIyNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTgyMTk5YmNhZWE5YmFlMzlkYmY2NzlhNWEwYzM0MDIwZWFjMGE3OTQ5OTBlM2E4ZTI1OTkwZWFkOGNmNDRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YDhsee4r8IHYQkfRtCwUao_EQ5mSrGeXwhg5o65DZc4)
 
-![Uploading thumbnail.jpg…]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://telegra.ph/file/7bf68abc8b17877506256.jpg)
